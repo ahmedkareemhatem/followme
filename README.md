@@ -1,10 +1,10 @@
-# Twitter Sample App using Ruby On Rails
+# FollowMe website using Ruby On Rails
 
-This is a Twitter sample application developed mainly using Ruby on Rails Language which can be viewed on 
-[*Heroku*](https://quiet-crag-23786.herokuapp.com)
-and was created by [Ahmed Fouad](https://www.linkedin.com/in/ahmedfouadelta/).
+This is a Twitter look alike website developed mainly using Ruby on Rails Language which can be viewed on
+[*Heroku*](https://followme-101.herokuapp.com/)
+and implemented by [Ahmed Kareem](https://www.linkedin.com/in/ahmed-kareem-hatem-657133ab/).
 
-This application includes examples of all the major features of Rails, including models, views, controllers, templates, partials, 
+The website includes examples of most of the major features of Rails, including models, views, controllers, templates, partials,
 filters, validations, callbacks, has_many/belongs_to and has_many :through associations, security, testing, and deployment.
 
 ## Getting started
